@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0198-house-robber](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0198-house-robber) |
 ## Math
 |  |
 | ------- |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0319-bulb-switcher) |
+## Array
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
