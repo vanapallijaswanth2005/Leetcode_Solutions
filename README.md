@@ -39,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2413-smallest-even-multiple) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
