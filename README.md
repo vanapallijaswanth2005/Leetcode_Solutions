@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0009-palindrome-number) |
+| [0319-bulb-switcher](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [2413-smallest-even-multiple](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2469-convert-the-temperature) |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
