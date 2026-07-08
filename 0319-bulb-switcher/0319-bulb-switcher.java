@@ -2,16 +2,11 @@ class Solution {
     public int bulbSwitch(int n) {
         // Logic :  The number of perfect sqaures upto n.. 
 
-        int count=0;
-        boolean ans=false;
-        for(int i=1;i<=n;i++)
+        int count=0; int i=1;
+        while(i*i<=n)
         {
-            int per_squ=(int) Math.sqrt(i);
-            if(per_squ*per_squ==i)
-            {
-                ans=true;
-                count+=1;
-            }
+            count++;
+            i++;
         }
         return count;
     }
