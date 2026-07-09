@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2413-smallest-even-multiple](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2469-convert-the-temperature) |
+| [2651-calculate-delayed-arrival-time](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2651-calculate-delayed-arrival-time) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Linked List
 |  |
