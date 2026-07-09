@@ -4,8 +4,14 @@ class Solution {
         int sell=0;
         for(int i=1;i<prices.length;i++)
         {
-            buy=Math.min(buy,prices[i]);
-            sell=Math.max(sell,prices[i]-buy);
+            if(prices[i]<buy)
+            {
+                buy=prices[i];
+            }
+            else if(prices[i]-buy>sell)
+            {
+                sell=prices[i]-buy;
+            }
         }
         return sell;
     }
