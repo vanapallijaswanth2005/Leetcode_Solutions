@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Math
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1480-running-sum-of-1d-array](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
