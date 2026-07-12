@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0322-coin-change) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0575-distribute-candies) |
 | [0746-min-cost-climbing-stairs](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1480-running-sum-of-1d-array](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -137,5 +138,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0575-distribute-candies) |
 <!---LeetCode Topics End-->
