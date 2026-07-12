@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0198-house-robber) |
+| [0217-contains-duplicate](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0575-distribute-candies) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Memoization
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0575-distribute-candies) |
 ## Binary Search
