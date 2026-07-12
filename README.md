@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0561-array-partition](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0575-distribute-candies) |
 | [0746-min-cost-climbing-stairs](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0561-array-partition](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0561-array-partition) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Memoization
@@ -155,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
