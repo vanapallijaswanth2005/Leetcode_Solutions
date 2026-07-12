@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 ## String
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 ## Prefix Sum
 |  |
 | ------- |
