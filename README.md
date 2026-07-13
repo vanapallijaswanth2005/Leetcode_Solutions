@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2460-apply-operations-to-an-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0063-unique-paths-ii](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
