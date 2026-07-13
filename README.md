@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0283-move-zeroes) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0063-unique-paths-ii](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
+| [0075-sort-colors](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0189-rotate-array) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0645-set-mismatch) |
