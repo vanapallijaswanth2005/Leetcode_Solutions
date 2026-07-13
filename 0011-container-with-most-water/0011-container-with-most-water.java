@@ -5,22 +5,18 @@ class Solution {
         int max=0;
         while(l<r)
         {
-            
+            int width=r-l;
             int h=Math.min(height[l],height[r]);
-            int length=r-l;
-            int area=h*length;
+            int area=width*h;
             max=Math.max(max,area);
             if(height[l]<height[r])
-           {
-             l=l+1;
-           }
-           else
-           {
-            r=r-1;
-           }
-
+            {
+                l++;
+            }
+            else{
+                r--;
+            }
         }
         return max;
-
     }
 }
