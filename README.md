@@ -186,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
