@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2460-apply-operations-to-an-array](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2460-apply-operations-to-an-array) |
