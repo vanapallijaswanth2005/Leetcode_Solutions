@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0383-ransom-note](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0645-set-mismatch) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Greedy
 |  |
@@ -218,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0200-number-of-islands) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
