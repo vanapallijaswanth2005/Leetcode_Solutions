@@ -6,7 +6,7 @@ class Solution {
         int m = s.length();
         int n = p.length();
 
-        // Base Case
+        
         if (n > m)
             return res;
 
