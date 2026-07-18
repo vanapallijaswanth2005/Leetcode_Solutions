@@ -6,17 +6,15 @@ class Solution {
         {
             if(hm.containsKey(nums[i]))
             {
-                if(i-hm.get(nums[i])>k)
+                if(i-hm.get(nums[i])<=k)
                 {
-                    ans= false;
-                }
-                else{
                     return true;
                 }
+                
                    
             }
              hm.put(nums[i],i);
         }
-        return ans;
+        return false;
     }
 }
