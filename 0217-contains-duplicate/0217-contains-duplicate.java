@@ -5,9 +5,9 @@ class Solution {
         {
             if(hs.contains(num))
             {
-               return true;
+                return true;
             }
-             hs.add(num);
+            hs.add(num);
         }
         return false;
     }
