@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0706-design-hashmap) |
 | [0746-min-cost-climbing-stairs](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0766-toeplitz-matrix) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
