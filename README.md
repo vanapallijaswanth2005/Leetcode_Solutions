@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0200-number-of-islands) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0645-set-mismatch) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0383-ransom-note) |
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
