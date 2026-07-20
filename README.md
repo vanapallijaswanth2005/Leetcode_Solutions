@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0876-middle-of-the-linked-list](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0706-design-hashmap](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0706-design-hashmap) |
+| [0876-middle-of-the-linked-list](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
