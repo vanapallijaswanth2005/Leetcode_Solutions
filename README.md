@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0733-flood-fill) |
 ## Hash Table
 |  |
@@ -303,11 +304,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0547-number-of-provinces](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0733-flood-fill) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 ## Queue
 |  |
 | ------- |
@@ -349,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
