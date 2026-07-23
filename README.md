@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0058-length-of-last-word](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
