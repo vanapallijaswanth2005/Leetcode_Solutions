@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Brainteaser
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2344-minimum-deletions-to-make-array-divisible) |
