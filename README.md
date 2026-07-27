@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0706-design-hashmap) |
+| [0724-find-pivot-index](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0766-toeplitz-matrix) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/1732-find-the-highest-altitude) |
 ## Sorting
