@@ -347,12 +347,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0933-number-of-recent-calls) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0155-min-stack) |
 | [0622-design-circular-queue](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0706-design-hashmap](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0706-design-hashmap) |
+| [0933-number-of-recent-calls](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0933-number-of-recent-calls) |
 ## Hash Function
 |  |
 | ------- |
@@ -403,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0090-subsets-ii) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
