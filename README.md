@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0733-flood-fill) |
+| [0841-keys-and-rooms](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0841-keys-and-rooms) |
 ## Hash Table
 |  |
 | ------- |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0733-flood-fill) |
+| [0841-keys-and-rooms](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0841-keys-and-rooms) |
 ## Union-Find
 |  |
 | ------- |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
+| [0841-keys-and-rooms](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0841-keys-and-rooms) |
 ## Database
 |  |
 | ------- |
