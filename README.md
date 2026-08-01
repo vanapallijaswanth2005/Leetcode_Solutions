@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0645-set-mismatch) |
+| [0695-max-area-of-island](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0766-toeplitz-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0733-flood-fill) |
 ## Hash Table
 |  |
@@ -340,12 +343,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0733-flood-fill) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
 ## Queue
 |  |
 | ------- |
