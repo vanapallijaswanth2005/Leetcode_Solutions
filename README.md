@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
 ## Tree
 |  |
 | ------- |
