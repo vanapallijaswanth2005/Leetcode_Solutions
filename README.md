@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0766-toeplitz-matrix) |
+| [0997-find-the-town-judge](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0997-find-the-town-judge) |
 | [1200-minimum-absolute-difference](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0706-design-hashmap](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0706-design-hashmap) |
+| [0997-find-the-town-judge](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0997-find-the-town-judge) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0841-keys-and-rooms) |
+| [0997-find-the-town-judge](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0997-find-the-town-judge) |
 ## Database
 |  |
 | ------- |
