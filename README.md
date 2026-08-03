@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
