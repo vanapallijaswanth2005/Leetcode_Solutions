@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0942-di-string-match](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0942-di-string-match) |
 | [2460-apply-operations-to-an-array](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0942-di-string-match](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0942-di-string-match) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0766-toeplitz-matrix) |
+| [0942-di-string-match](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0942-di-string-match) |
 | [0997-find-the-town-judge](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0997-find-the-town-judge) |
 | [1200-minimum-absolute-difference](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0561-array-partition) |
+| [0942-di-string-match](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0942-di-string-match) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Counting Sort
 |  |
