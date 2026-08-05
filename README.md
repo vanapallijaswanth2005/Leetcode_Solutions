@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0766-toeplitz-matrix) |
 | [0942-di-string-match](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0942-di-string-match) |
+| [0992-subarrays-with-k-different-integers](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0997-find-the-town-judge) |
 | [1200-minimum-absolute-difference](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0706-design-hashmap](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0706-design-hashmap) |
+| [0992-subarrays-with-k-different-integers](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0997-find-the-town-judge) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Greedy
 |  |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0992-subarrays-with-k-different-integers](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
