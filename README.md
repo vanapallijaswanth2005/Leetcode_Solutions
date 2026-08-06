@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2469-convert-the-temperature) |
 | [2651-calculate-delayed-arrival-time](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/2651-calculate-delayed-arrival-time) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/vanapallijaswanth2005/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Depth-First Search
 |  |
 | ------- |
